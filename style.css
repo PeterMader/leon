@@ -1,0 +1,27 @@
+/* 
+ *
+ * Dies ist die CSS-Datei, die für das Aussehen der dazugehörigen HTML-Datei verantwortlich ist.
+ * Eigentlich ist sie bei einer so einfachen Datei recht nutzlos, aber ich will ja nur zeigen, wie
+ * HTML, CSS und JavaScript zusammenspielen.
+ *
+ */
+
+/* Weise dem <body>-Element folgende Eigenschaft zu: */
+body {
+    /* Die Hintergrundfarbe soll hellgrau sein. */
+    background-color: lightgrey;
+}
+
+/* Weise allen <div>-Elementen folgende Eigenschaften zu: */
+div {
+    /* sie sollen einen Rahmen besitzen, der ein Pixel breit ist, durchgängig ist und schwarz ist */
+    border: 1px solid black;
+    /* ihr Inhalt soll fpnf Pixel vom Rahmen entfernt sein */
+    padding: 5px;
+}
+
+/* Weise dem Element mit der ID "reaktion" folgende Eigenschaft zu: */
+#reaktion {
+    /* die Textfarbe soll rot sein */
+    color: red;
+}
