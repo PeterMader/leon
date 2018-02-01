@@ -8,7 +8,7 @@ Da du ja mit Microsoft Windows arbeitest, Folgendes schon mal vorneweg: ich
 empfehle dir dringend, im Windows Datei-Explorer die Dateiendungen anzeigen zu
 lassen. Nehmen wir an, du hast folgende Dateien in einem Ordner:
 
-* `index.html`': eine HTML-Datei
+* `index.html`: eine HTML-Datei
 * `index.js`: eine JavaScript-Datei
 * `style.css`: ein CSS-Datei
 
@@ -60,6 +60,9 @@ sind. In vielen anderen Shells (zum Beispiel `bash`) heißt dieser Befehl aber
 
 Ein weiterer Befehl, den es in jeder Shell gibt: `exit`. Damit beendest du die
 Shell.
+
+**Aber Achtung!** Wer sich ganz blöd anstellt, kann in der Shell unerwünschte 
+Sachen machen. Den ganzen Computer löschen, zum Beispiel.
 
 Da ich ja kein IDE verwende, hab ich einen ganz normalen Texteditor (*nicht Word
 oder LibreOffice/OpenOffice*, das sind keine Texteditoren). Du kannst natürlich
@@ -149,3 +152,7 @@ die HTML-Datei, die du dann auf deinem Computer hast, im Browser zu öffnen:
 `git clone https://github.com/PeterMader/leon.git`.
 3. Öffne die Datei im Browser (im Windows-Explorer oder der URL-Zeile des
 Browsers, z. B. `file:///C:/Users/leon/pfad/zum/repo/leon/leon.html`).
+
+Schau dir die drei Dateien genau an, auf GitHub oder, wenn du das Projekt
+erfolgreich geklont hast, in einem Texteditor deiner Wahl auf deinem eigenen
+Computer.
