@@ -13,7 +13,8 @@ lassen. Nehmen wir an, du hast folgende Dateien in einem Ordner:
 * `style.css`: ein CSS-Datei
 
 Stelle sicher, dass die Dateiendungen angezeigt werden, weil das ziemlich
-ist. Andernfalls siehst du nämlich nur die Dateien `index`, `index` und `style`.
+wichtig ist. Andernfalls siehst du nämlich nur die Dateien `index`, `index` und
+`style`.
 
 Eclipse ist ein sogenanntes IDE, ein Integrated Development Environment
 (integrierte Umgebung für (Software-)Entwicklung). Das heißt, dass bei Eclipse
@@ -156,3 +157,25 @@ Browsers, z. B. `file:///C:/Users/leon/pfad/zum/repo/leon/leon.html`).
 Schau dir die drei Dateien genau an, auf GitHub oder, wenn du das Projekt
 erfolgreich geklont hast, in einem Texteditor deiner Wahl auf deinem eigenen
 Computer.
+
+## Wie geht's weiter?
+
+Natürlich musst du JavaScript nicht lernen. Ich könnte mit dir auch ein Projekt
+in Java machen.
+
+Wenn es dich aber doch interessiert, kannst du mich jederzeit fragen. Im
+Internet gibt es außerdem viele Seiten, die dich voranbringen können:
+
+1. Mozilla Developer Network
+([https://developer.mozilla.org](https://developer.mozilla.org)): meiner Meinung
+nach die beste Ressource für HTML, CSS und JavaScript. Die Seite wird von
+Freiwilligen gestaltet und mit Inhalt gefüllt. Was dort beschrieben wird,
+funkioniert natürlich nicht nur im Mozilla Firefox, sondern in allen modernen
+Browsern. Sie haben auch gute Tutorials für Einsteiger.
+2. StackOverflow ([https://stackoverflow.com](https://stackoverflow.com)):
+eine *sehr* beliebte Frage- und Antwort-Seite für Programmierfragen. Wenn du mit
+Google nach einer einer Programmierfrage suchst, ist sicherlich eines der ersten
+Ergebnisse eine Frage auf StackOverflow. Die Antworten helfen in vielen Fällen
+weiter.
+3. Google! Ich habe mir viel selbst beigebracht und das meistens auf Google
+gefunden. 
