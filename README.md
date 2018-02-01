@@ -84,7 +84,17 @@ Programm zu benutzen, wie er will, zu kopieren und zu verändern. Sie wird meist
 von Freiwilligen entwickelt. Ich achte darauf, dass ich möglichst viel freie
 Software benutze (deshalb auch Linux, Vim, Firefox und so weiter).
 
-Ein Softwareprojekt heißt bei Git "Repository" (kurz "Repo").
+Ein Softwareprojekt heißt bei Git "Repository" (kurz "Repo"). Wenn man Git
+mitteilen möchte, dass eine Änderung im Projekt fertig ist, nennt man das einen
+"Commit". Da ich auf in diesem Repository schon einige Sachen verändert habe, 
+hat das Repository schon ein paar Commits. Mit Git kann man auch die vergangenen
+Commits anschauen. Das ist hilfreich, wenn man Mist gebaut hat und einfach den
+alten Stand wiederherstellen möchte.
+
+Es gibt sehr umfangreiche Softwareprojekte, die Git einsetzen. Der
+[Linux Kernel](https://github.com/torvalds/linux) zum Beispiel hat über 700000
+Commits! Das heißt nicht, dass es 700000 verschiedene Linux-Versionen gibt, aber
+700000 mal wurden Änderungen im Kernel in Git gespeichert.
 
 GitHub ist ein Unternehmen, das für die Seite `github.com` verantwortlich ist.
 Auf dieser Seite kann man Git-Repos veröffentlichen, und andere können bei dem
