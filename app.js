@@ -1,6 +1,6 @@
 /*
  *
- * Dies ist die JavaScript-Datei. Sorgt dafür, dass ein bestimmter Text erscheint, wenn der Button auf der
+ * Dies ist die JavaScript-Datei. Sie sorgt dafür, dass ein bestimmter Text erscheint, wenn der Button auf der
  * HTML-Seite geklickt wird.
  *
  */

@@ -2,6 +2,11 @@
 
 Eine Einführung in JavaScript für Leon.
 
+## Inhaltsverzeichnis
+
+* `README.md` &mdash; die Startseite. Hier befindest du dich bereits.
+* [`erste-schritte.md`](erste-schritte.md) &mdash; erste Schritte in JavaScript.
+
 ## Programmierumgebung
 
 Da du ja mit Microsoft Windows arbeitest, Folgendes schon mal vorneweg: ich
@@ -13,7 +18,8 @@ lassen. Nehmen wir an, du hast folgende Dateien in einem Ordner:
 * `style.css`: ein CSS-Datei
 
 Stelle sicher, dass die Dateiendungen angezeigt werden, weil das ziemlich
-ist. Andernfalls siehst du nämlich nur die Dateien `index`, `index` und `style`.
+wichtig ist. Andernfalls siehst du nämlich nur die Dateien `index`, `index` und
+`style`.
 
 Eclipse ist ein sogenanntes IDE, ein Integrated Development Environment
 (integrierte Umgebung für (Software-)Entwicklung). Das heißt, dass bei Eclipse
@@ -83,7 +89,17 @@ Programm zu benutzen, wie er will, zu kopieren und zu verändern. Sie wird meist
 von Freiwilligen entwickelt. Ich achte darauf, dass ich möglichst viel freie
 Software benutze (deshalb auch Linux, Vim, Firefox und so weiter).
 
-Ein Softwareprojekt heißt bei Git "Repository" (kurz "Repo").
+Ein Softwareprojekt heißt bei Git "Repository" (kurz "Repo"). Wenn man Git
+mitteilen möchte, dass eine Änderung im Projekt fertig ist, nennt man das einen
+"Commit". Da ich auf in diesem Repository schon einige Sachen verändert habe, 
+hat das Repository schon ein paar Commits. Mit Git kann man auch die vergangenen
+Commits anschauen. Das ist hilfreich, wenn man Mist gebaut hat und einfach den
+alten Stand wiederherstellen möchte.
+
+Es gibt sehr umfangreiche Softwareprojekte, die Git einsetzen. Der
+[Linux Kernel](https://github.com/torvalds/linux) zum Beispiel hat über 700000
+Commits! Das heißt nicht, dass es 700000 verschiedene Linux-Versionen gibt, aber
+700000 mal wurden Änderungen im Kernel in Git gespeichert.
 
 GitHub ist ein Unternehmen, das für die Seite `github.com` verantwortlich ist.
 Auf dieser Seite kann man Git-Repos veröffentlichen, und andere können bei dem
@@ -156,3 +172,25 @@ Browsers, z. B. `file:///C:/Users/leon/pfad/zum/repo/leon/leon.html`).
 Schau dir die drei Dateien genau an, auf GitHub oder, wenn du das Projekt
 erfolgreich geklont hast, in einem Texteditor deiner Wahl auf deinem eigenen
 Computer.
+
+## Wie geht's weiter?
+
+Natürlich musst du JavaScript nicht lernen. Ich könnte mit dir auch ein Projekt
+in Java machen.
+
+Wenn es dich aber doch interessiert, kannst du mich jederzeit fragen. Im
+Internet gibt es außerdem viele Seiten, die dich voranbringen können:
+
+1. Mozilla Developer Network
+([https://developer.mozilla.org](https://developer.mozilla.org)): meiner Meinung
+nach die beste Ressource für HTML, CSS und JavaScript. Die Seite wird von
+Freiwilligen gestaltet und mit Inhalt gefüllt. Was dort beschrieben wird,
+funkioniert natürlich nicht nur im Mozilla Firefox, sondern in allen modernen
+Browsern. Sie haben auch gute Tutorials für Einsteiger.
+2. StackOverflow ([https://stackoverflow.com](https://stackoverflow.com)):
+eine *sehr* beliebte Frage- und Antwort-Seite für Programmierfragen. Wenn du mit
+Google nach einer einer Programmierfrage suchst, ist sicherlich eines der ersten
+Ergebnisse eine Frage auf StackOverflow. Die Antworten helfen in vielen Fällen
+weiter.
+3. Google! Ich habe mir viel selbst beigebracht und das meistens auf Google
+gefunden. 
