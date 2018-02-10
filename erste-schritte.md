@@ -63,7 +63,7 @@ und Ausdrücke eingeben kannst. Ein Beispiel: öffne die Konsole und gib ein:
 2 + 2
 ```
 
-Dann drück <kbd>Enter<kbd>.
+Dann drück <kbd>Enter</kbd>.
 
 Na? Was war die Antwort? Wenn jetzt `4` erschienen ist, dann herzlichen
 Glückwunsch! Du hast dein erstes JavaScript-Programm ausgeführt.
