@@ -2,6 +2,11 @@
 
 Eine Einführung in JavaScript für Leon.
 
+## Inhaltsverzeichnis
+
+* `README.md` &mdash; die Startseite. Hier befindest du dich bereits.
+* [`erste-schritte.md`](erste-schritte.md) &mdash; erste Schritte in JavaScript.
+
 ## Programmierumgebung
 
 Da du ja mit Microsoft Windows arbeitest, Folgendes schon mal vorneweg: ich
