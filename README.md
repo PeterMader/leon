@@ -6,6 +6,10 @@ Eine Einführung in JavaScript für Leon.
 
 * `README.md` &mdash; die Startseite. Hier befindest du dich bereits.
 * [`erste-schritte.md`](erste-schritte.md) &mdash; erste Schritte in JavaScript.
+* [`aufgaben.md`](aufgaben.md) &mdash; eine kleine Sammlung von
+Programmieraufgaben, die du erledigen kannst.
+* [`ausdruecke.md`](ausdruecke.md) &mdash; Ausdrücke aufs Genaueste zerlegt.
+Unvollständig.
 
 ## Programmierumgebung
 

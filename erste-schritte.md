@@ -16,7 +16,7 @@ zurückliefert.
 JavaScript war also geboren, aber es gab keine Firma oder Organisation, die
 festlegen konnte, wie *genau* JavaScript jetzt funktionieren soll. Deshalb waren
 das JavaScript im Netscape Navigator (der Vorgänger von Mozilla Firefox) und das
-JavaScript im Internet Explorer von MicroSoft etwas unterschiedlich.
+JavaScript im Internet Explorer von Microsoft etwas unterschiedlich.
 
 Nach einiger Zeit kümmerte sich dann Ecma um die Programmiersprache. Ecma ist
 eine Standardisierungsorganisation, d.h. eine Organisation, die für irgendwelche
@@ -226,7 +226,7 @@ while (i < 10) {    // solange i kleiner als 10 ist
 }
 ```
 
-In der ersten Zeile *deklarieren* wir ein Variable mit dem Namen `i`, das heißt
+In der ersten Zeile *deklarieren* wir eine Variable mit dem Namen `i`, das heißt
 wir teilen dem Webbrowser mit, dass es ab jetzt diese Variable geben soll.
 Gleichzeitig weisen wir der Variable einen Wert zu, nämlich `0`.
 
