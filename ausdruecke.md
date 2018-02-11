@@ -310,3 +310,34 @@ let a = (3 === 2) ? "ja" : "nein";
 Hier wird überprüft, ob drei gleich zwei ist. Da das nicht der Fall ist, wird
 der dritte Operand (`"nein"`) zurückgegeben. Die Variable `a` hat also den Wert
 `"nein"`.
+
+## Funktionsaufrufe
+
+Auch ein Funktionsaufruf ist ein Ausdruck. Mit Funktionen beschäftigen wir uns
+in [funktionen.md](funktionen.md).
+
+## Objektliterale
+
+Jedes Literal ist ein Ausdruck, auch ein Objektliteral. Was Objekte und
+Objektliterale sind, darum geht es in [objekte.md](objekte.md).
+
+Arrays und Arrayliterale sind eine Sonderform von Objekten.
+
+## Wozu das Ganze?
+
+Ich wollte nur, dass du verstehst, was ich meine, wenn ich so etwas schreibe:
+
+```JavaScript
+// eine Variable können wir so deklarieren
+let a;
+let a = (ausdruck);
+```
+
+Der Ausdruck kann alles sein, was ich in diesem Artikel beschrieben habe:
+
+```JavaScript
+let a = 5;      // ein Zahlenliteral
+let a = "test"; // ein Stringliteral
+let a = 4 * 2;  // eine Operation
+// ...
+```
