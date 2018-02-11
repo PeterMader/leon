@@ -9,7 +9,8 @@ Eine Einführung in JavaScript für Leon.
 * [`aufgaben.md`](aufgaben.md) &mdash; eine kleine Sammlung von
 Programmieraufgaben, die du erledigen kannst.
 * [`ausdruecke.md`](ausdruecke.md) &mdash; Ausdrücke aufs Genaueste zerlegt.
-Unvollständig.
+* [`primzahlen.md`](primzahlen.md) &mdash; ein Programm, das Primzahlen
+berechnet.
 
 ## Programmierumgebung
 
